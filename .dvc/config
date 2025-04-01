@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = /Users/anujahlawat/Documents/1.1 ds_campusx/2.8 MLOps/4.5 revision/temp/data-versions
